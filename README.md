@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @roshinimurali
-- 👀 I’m interested in Java Programming
+- 👀 I’m interested in Web development
 - 🌱 I 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me RoshiniPraveen18@gmail.com
