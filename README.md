@@ -41,7 +41,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roshinimurali&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 <br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=roshinimurali&theme=dark&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=roshinimurali&theme=dark&hide_border=false)
 <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roshinimurali&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
