@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Roshini Muralidharan</h1>
 <h3 align="center">Dedicated Full-stack developer with experience in designing and developing user-oriented websites. 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshinimurali&label=Profile%80views&color=0e75b6&style=flat" alt="roshini" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshinimurali&label=Profile%20views&color=0e75b6&style=flat" alt="roshini" /> </p>
 
 <p align="left"> <img src="" alt="" /> </p>
 
