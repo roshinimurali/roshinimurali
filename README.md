@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Roshini Muralidharan</h1>
 <h3 align="center">Dedicated Full-stack developer with experience in designing and developing user-oriented websites. Proficient in technologies, frameworks, tools and libraries, with a strong focus on delivering high quality user experience. Passionate about continuous learning and professional growth in the world of web development.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshinimurali&label=Profile%20views&color=0e75b6&style=flat" alt="naeemi7" /> </p>
 
 <p align="left"> <img src="" alt="" /> </p>
 
