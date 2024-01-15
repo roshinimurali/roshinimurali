@@ -49,19 +49,19 @@
 
 - **Demo**
   - Access the application [here](https://bio-baum-bauer.onrender.com/)
-  -
+
 **Yoga & Meditation (Full Stack MERN application)**
 - **Description**: Frontend Web application for booking yoga sessions online
 - **Code**: [GitHub repo](https://github.com/roshinimurali/yoga-and-meditation)
 - **Demo**
   - Access the application [here](https://yoga-and-meditation.netlify.app/)
-  -
+  
 **Interior Design(Single page application)**
 - **Description**: Frontend Web application for a Interior Design shop
 - **Code**: [GitHub repo](https://github.com/roshinimurali/InteriorDesign)
 - **Demo**
   - Access the application [here](https://home-360.netlify.app/)
-  -
+  
 ## Get in touch
 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=email&logoColor=white)](mailto:roshinipraveen18@gmail.com)
