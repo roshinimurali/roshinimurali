@@ -43,21 +43,24 @@
 ## Active solo project  
 **BioBaumBauer (Full Stack MERN application)**
 - **Description**: Fullstack Web application for sponsoring Trees(Real time for a client who owns a from in Sttugart,Germany)
-- **Code**: [GitHub repo]()
+- **Code**:
+- **Frontend**:[GitHub repo](https://github.com/roshinimurali/baum-bauer-frontend)
+- **Backend**:[GitHub repo](https://github.com/roshinimurali/baum-bauer-backend)
+
 - **Demo**
-  - Access the application [here]()
+  - Access the application [here](https://bio-baum-bauer.onrender.com/)
   -
 **Yoga & Meditation (Full Stack MERN application)**
 - **Description**: Frontend Web application for booking yoga sessions online
-- **Code**: [GitHub repo]()
+- **Code**: [GitHub repo](https://github.com/roshinimurali/yoga-and-meditation)
 - **Demo**
-  - Access the application [here]()
+  - Access the application [here](https://yoga-and-meditation.netlify.app/)
   -
 **Interior Design(Single page application)**
 - **Description**: Frontend Web application for a Interior Design shop
-- **Code**: [GitHub repo]()
+- **Code**: [GitHub repo](https://github.com/roshinimurali/InteriorDesign)
 - **Demo**
-  - Access the application [here]()
+  - Access the application [here](https://home-360.netlify.app/)
   -
 ## Get in touch
 
