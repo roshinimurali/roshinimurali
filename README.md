@@ -1,51 +1,65 @@
-![logo](logo.png)
 
-<h1 align="center">Hi 👋, I'm Roshini Muralidharan</h1>
-<h3 align="center">Dedicated Full-stack developer with experience in designing and developing user-oriented websites. 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshinimurali&label=Profile%20views&color=0e75b6&style=flat" alt="roshini" /> </p>
+# 👋 Hi, I’m Roshini Muralidharan based in Hamburg, Germany.
 
-<p align="left"> <img src="" alt="" /> </p>
+## About me
 
-- 🔭 I’m currently working on [Yoga and Meditation](https://yoga-and-meditation.netlify.app/)
+ 👨🏻‍💻 A proficient Full-Stack developer,Front-Developer and UI/UX designer adeptly blend coding skills with creativity to produce digital experiences centered around users. They excel at seamlessly integrating functionality and aesthetics, demonstrating a deep passion for transforming concepts into visually striking and highly functional websites..
 
-- 🌱 I’m currently learning **MongoDB**
+## Technologies
 
-- 📫 How to reach me *Roshinipraveen18@gmail.com**
-
-<br>
-
-# 💻 Tech Stack:
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge)
-![React.js](https://img.shields.io/badge/React.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Email.js](https://img.shields.io/badge/Email.js-333333?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge&logo=cloudinary&logoColor=white)
 
-# 📊 GitHub Stats:
+## Tools
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?user=roshinimurali&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-<br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=roshinimurali&theme=dark&hide_border=false)
-<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roshinimurali&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
+![Compass](https://img.shields.io/badge/MongoDB_Compass-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-007ACC?style=for-the-badge&logo=axios&logoColor=white)
 
+## Active solo project  
+**BioBaumBauer (Full Stack MERN application)**
+- **Description**: Fullstack Web application for sponsoring Trees(Real time for a client who owns a from in Sttugart,Germany)
+- **Code**: [GitHub repo]()
+- **Demo**
+  - Access the application [here]()
+  -
+**Yoga & Meditation (Full Stack MERN application)**
+- **Description**: Frontend Web application for booking yoga sessions online
+- **Code**: [GitHub repo]()
+- **Demo**
+  - Access the application [here]()
+  -
+**Interior Design(Single page application)**
+- **Description**: Frontend Web application for a Interior Design shop
+- **Code**: [GitHub repo]()
+- **Demo**
+  - Access the application [here]()
+  -
+## Get in touch
 
-### 🔝 Top Contributed Repo
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=roshinimurali&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=email&logoColor=white)](mailto:roshinipraveen18@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/roshini-muralidharan/))
