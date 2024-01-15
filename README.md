@@ -1,4 +1,4 @@
-![Header](.)
+![Header](./headergithub.png)
 
 
 # 👋 Hi, I’m Roshini Muralidharan based in Hamburg, Germany.
