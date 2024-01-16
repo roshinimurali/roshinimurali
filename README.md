@@ -43,19 +43,36 @@
 ![Axios](https://img.shields.io/badge/Axios-007ACC?style=for-the-badge&logo=axios&logoColor=white)
 
 ## project  
+
+## 1. [BioBaumBauer](https://github.com/roshinimurali/baum-bauer-frontend)
+
+Fullstack Web application for sponsoring Trees(Real time for a client who owns a from in Sttugart,Germany)
+Website: [Bio-Baum-Bauer](https://bio-baum-bauer.onrender.com/)
+GitHub Repository frontend: [Bio-baum-bauer](https://github.com/roshinimurali/baum-bauer-frontend)
+GitHub Repository Backend: [Bio-baum-bauer](https://github.com/roshinimurali/baum-bauer-backend)
+
+## 2. [Yoga & Meditation](https://github.com/roshinimurali/yoga-and-meditation)
+Frontend Web application for booking yoga sessions onlineWebsite: [yoga & Meditation](https://todoxpress.onrender.com)
+GitHub Repository: [yoga-and-meditaion](https://github.com/roshinimurali/yoga-and-meditation)
+
+## 3. [Home-360'](https://github.com/roshinimurali/InteriorDesign)
+
+Frontend Web application for a Interior Design shop
+Website: [IHome-360'](https://home-360.netlify.app/)
+GitHub Repository: [Home-360'](https://github.com/roshinimurali/InteriorDesign)
+<!--
 <h3 align="center">BioBaumBauer</h3>
 
 
 - **Description**: Fullstack Web application for sponsoring Trees(Real time for a client who owns a from in Sttugart,Germany)
-<p align="center">
+ <p align="center">
  <img src='./bio1.png' width='400'>
 <img src='./bio2.png' width='400'> 
 </p>
 <p align="center">
   <img src='./bio3.png' width='400'>
 <img src='./bio4.png' width='400'>
-</p>
-
+</p> 
 
 [![Bio Baum Bauer](https://github-readme-stats.vercel.app/api/pin?username=roshinimurali&repo=baum-bauer-frontend&border_color=7F3FBF&bg_color=1B2932&title_color=D3B692&text_color=EEEEEE&icon_color=72B7C0)](https://github.com/roshinimurali/baum-bauer-frontend)
 [![Bio Baum Bauer](https://github-readme-stats.vercel.app/api/pin?username=roshinimurali&repo=baum-bauer-frontend&border_color=7F3FBF&bg_color=1B2932&title_color=D3B692&text_color=EEEEEE&icon_color=72B7C0)](https://github.com/roshinimurali/baum-bauer-frontend)
@@ -63,9 +80,14 @@
 
 - **Demo**
   - Access the application [here](https://bio-baum-bauer.onrender.com/)
+  - 
+<h3 align="center">Yoga & Meditation (Full Stack MERN application)</h3>
 
-**Yoga & Meditation (Full Stack MERN application)**
+
 - **Description**: Frontend Web application for booking yoga sessions online
+[![yoga-and-meditation](https://github-readme-stats.vercel.app/api/pin?username=roshinimurali&repo=yoga-and-meditation&border_color=7F3FBF&bg_color=1B2932&title_color=D3B692&text_color=EEEEEE&icon_color=72B7C0)]([https://github.com/roshinimurali/baum-bauer-frontend](https://github.com/roshinimurali/yoga-and-meditation))
+
+
 - **Code**: [GitHub repo](https://github.com/roshinimurali/yoga-and-meditation)
 - **Demo**
   - Access the application [here](https://yoga-and-meditation.netlify.app/)
@@ -75,7 +97,7 @@
 - **Code**: [GitHub repo](https://github.com/roshinimurali/InteriorDesign)
 - **Demo**
   - Access the application [here](https://home-360.netlify.app/)
-  
+  -->
 ## Get in touch
 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=email&logoColor=white)](mailto:roshinipraveen18@gmail.com)
