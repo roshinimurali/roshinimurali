@@ -3,6 +3,10 @@
 
 # 👋 Hi, I’m Roshini Muralidharan based in Hamburg, Germany.
 
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=email&logoColor=white)](mailto:roshinipraveen18@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/roshini-muralidharan/))
+
+
 ## About me
 
  👨🏻‍💻 A proficient Full-Stack developer,Front-Developer and UI/UX designer adeptly blend coding skills with creativity to produce digital experiences centered around users. They excel at seamlessly integrating functionality and aesthetics, demonstrating a deep passion for transforming concepts into visually striking and highly functional websites..
@@ -98,7 +102,24 @@ GitHub Repository: [Home-360'](https://github.com/roshinimurali/InteriorDesign)
 - **Demo**
   - Access the application [here](https://home-360.netlify.app/)
   -->
-## Get in touch
+  <h2>
+  <samp>
+     Profile Summary
+  </samp>
+ 
+</h2>
 
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=email&logoColor=white)](mailto:roshinipraveen18@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/roshini-muralidharan/))
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RoshiniMurali&theme=calm" alt="Profile Details" />
+</p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RoshiniMurali&theme=calm" alt="Profile Details" />
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RoshiniMurali&theme=calm" alt="Profile Details" />
+</p>
+
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RoshiniMurali&theme=calm" alt="Profile Details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RoshiniMurali&theme=calm&utcOffset=8" />
+</p>
