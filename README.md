@@ -45,18 +45,21 @@
 ## project  
 <h3 align="center">BioBaumBauer</h3>
 
+
 - **Description**: Fullstack Web application for sponsoring Trees(Real time for a client who owns a from in Sttugart,Germany)
 <p align="center">
- <img src= width='400'>
-<img src= width='400'> 
+ <img src='./bio1.png' width='400'>
+<img src='./bio2.png' width='400'> 
 </p>
 <p align="center">
-  <img src= width='400'>
-<img src= width='400'>
+  <img src='./bio3.png' width='400'>
+<img src='./bio4.png' width='400'>
 </p>
-- **Code**:
-- **Frontend**:[GitHub repo](https://github.com/roshinimurali/baum-bauer-frontend)
-- **Backend**:[GitHub repo](https://github.com/roshinimurali/baum-bauer-backend)
+
+
+[![Bio Baum Bauer](https://github-readme-stats.vercel.app/api/pin?username=roshinimurali&repo=baum-bauer-frontend&border_color=7F3FBF&bg_color=1B2932&title_color=D3B692&text_color=EEEEEE&icon_color=72B7C0)](https://github.com/roshinimurali/baum-bauer-frontend)
+[![Bio Baum Bauer](https://github-readme-stats.vercel.app/api/pin?username=roshinimurali&repo=baum-bauer-frontend&border_color=7F3FBF&bg_color=1B2932&title_color=D3B692&text_color=EEEEEE&icon_color=72B7C0)](https://github.com/roshinimurali/baum-bauer-frontend)
+
 
 - **Demo**
   - Access the application [here](https://bio-baum-bauer.onrender.com/)
