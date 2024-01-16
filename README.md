@@ -42,9 +42,18 @@
 ![Compass](https://img.shields.io/badge/MongoDB_Compass-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-007ACC?style=for-the-badge&logo=axios&logoColor=white)
 
-## Active solo project  
-**BioBaumBauer (Full Stack MERN application)**
+## project  
+<h3 align="center">BioBaumBauer</h3>
+
 - **Description**: Fullstack Web application for sponsoring Trees(Real time for a client who owns a from in Sttugart,Germany)
+<p align="center">
+ <img src= width='400'>
+<img src= width='400'> 
+</p>
+<p align="center">
+  <img src= width='400'>
+<img src= width='400'>
+</p>
 - **Code**:
 - **Frontend**:[GitHub repo](https://github.com/roshinimurali/baum-bauer-frontend)
 - **Backend**:[GitHub repo](https://github.com/roshinimurali/baum-bauer-backend)
